@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: "Sarah Castellon"
+date: "September 12 2024"
 output: html_document
 ---
 
@@ -15,6 +15,14 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+Twas brillig, and the slithy toves  
+
+Did gyre and gimble in the wabe:  
+
+All mimsy were the borogoves,  
+
+And the mome raths outgrabe.  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
